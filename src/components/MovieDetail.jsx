@@ -1,7 +1,7 @@
 import Tv from "../assets/svgs/Logo.svg";
 import Home from "../assets/svgs/Home.svg";
 import Movie from "../assets/svgs/Movie Projector.svg";
-import TvSeries from "../assets/svgs/Tv Show.svg";
+import TvSeries from "../assets/svgs/TvShow.svg";
 import Upcoming from "../assets/svgs/Calendar.svg";
 import Logout from "../assets/svgs/Logout.svg";
 import Tickets from "../assets/svgs/Two Tickets.svg";
