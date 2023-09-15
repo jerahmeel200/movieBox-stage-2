@@ -85,7 +85,7 @@ export default function MovieDetail() {
             <h3>Movies</h3>
           </div>
           <div className="sideBarNavItems">
-            <img src={TvSeries} />
+            {/* <img src={TvSeries} /> */}
             <h3>TV Series</h3>
           </div>
           <div className="sideBarNavItems">
