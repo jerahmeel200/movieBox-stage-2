@@ -1,7 +1,7 @@
 import Tv from "../assets/svgs/Logo.svg";
 import Home from "../assets/svgs/Home.svg";
 import Movie from "../assets/svgs/Movie Projector.svg";
-import TvSeries from "../assets/svgs/TvShow.svg";
+import TvSeries from "../assets/svgs/tv.svg";
 import Upcoming from "../assets/svgs/Calendar.svg";
 import Logout from "../assets/svgs/Logout.svg";
 import Tickets from "../assets/svgs/Two Tickets.svg";
@@ -85,7 +85,7 @@ export default function MovieDetail() {
             <h3>Movies</h3>
           </div>
           <div className="sideBarNavItems">
-            {/* <img src={TvSeries} /> */}
+            <img src={TvSeries} />
             <h3>TV Series</h3>
           </div>
           <div className="sideBarNavItems">
